@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<schemas xmlns='http://xml.netbeans.org/schema/JAXBWizConfig' destdir='build/generated-sources/jaxb' projectName='SudokusJAXB' version='1.0'>
+	<schema type='-xmlschema' package='model.sudokus' name='sudokus'>
+		<xjc-options>
+		</xjc-options>
+		<schema-sources>
+			<schema-source location='xml-resources/jaxb/sudokus/SudokusEsquema.xsd' origLocation='esquemas/SudokusEsquema.xsd'/>
+		</schema-sources>
+		<bindings>
+		</bindings>
+		<catalog/>
+	</schema>
+	<schema type='-xmlschema' package='model.historials' name='Historials'>
+		<xjc-options>
+		</xjc-options>
+		<schema-sources>
+			<schema-source location='xml-resources/jaxb/Historials/HistorialEsquema.xsd' origLocation='esquemas/HistorialEsquema.xsd'/>
+		</schema-sources>
+		<bindings>
+		</bindings>
+		<catalog/>
+	</schema>
+	<schema type='-xmlschema' package='model.usuarios' name='Usuarios'>
+		<xjc-options>
+		</xjc-options>
+		<schema-sources>
+			<schema-source location='xml-resources/jaxb/Usuarios/UsuariosEsquema.xsd' origLocation='esquemas/UsuariosEsquema.xsd'/>
+		</schema-sources>
+		<bindings>
+		</bindings>
+		<catalog/>
+	</schema>
+</schemas>

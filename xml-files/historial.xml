@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<historial>
+    <resuelto>
+        <nombre_usuario>qq</nombre_usuario>
+        <sudoku_num>Sudoku{description=Easy,level=3, 
+problem=479..8..2.356..81.1...4.3......2743....5.6....5713......8.6...3.42..317.7..4..659, 
+solved=479318562235679814186245397961827435324596781857134926598761243642953178713482659}</sudoku_num>
+        <tiempo>15</tiempo>
+    </resuelto>
+    <resuelto>
+        <nombre_usuario>qq</nombre_usuario>
+        <sudoku_num>Sudoku{description=Easy,level=4, 
+problem=..3..98...8.65..9.6.91..5.41...3.72..3.2.1.6..42.7...39.4..23.5.6..17.4...74..6.., 
+solved=253749816481653297679128534196534728735281469842976153914862375568317942327495681}</sudoku_num>
+        <tiempo>13</tiempo>
+    </resuelto>
+    <resuelto>
+        <nombre_usuario>qq</nombre_usuario>
+        <sudoku_num>Sudoku{description=Easy,level=3, 
+problem=27.6...3969.4.52....3..2..88.....35.1..8.4..6.56.....43..9..4....75.1.2348...3.71, 
+solved=274618539698435217513792648849176352132854796756329184321987465967541823485263971}</sudoku_num>
+        <tiempo>14</tiempo>
+    </resuelto>
+    <resuelto>
+        <nombre_usuario>ww</nombre_usuario>
+        <sudoku_num>Sudoku{description=Easy,level=3, 
+problem=58.72......189...27....514.9.7..8.3..2.5.7.9..3.9..7.6.781....41...896......76.13, 
+solved=584721369361894572792365148917648235826537491435912786678153924143289657259476813}</sudoku_num>
+        <tiempo>22</tiempo>
+    </resuelto>
+    <resuelto>
+        <nombre_usuario>ww</nombre_usuario>
+        <sudoku_num>Sudoku{description=Medium,level=6, 
+problem=..6...4.....3.1...42.....18..91.52..64.....53..86.47..83.....67...5.8.....7...1.., 
+solved=716892435985341672423756918379185246641927853258634791832419567164578329597263184}</sudoku_num>
+        <tiempo>12</tiempo>
+    </resuelto>
+    <resuelto>
+        <nombre_usuario>ee</nombre_usuario>
+        <sudoku_num>Sudoku{description=Hard,level=8, 
+problem=.176.8..3..5219....8.5.......2...845.........846...9.......2.5....4756..5..1.638., 
+solved=217648593435219768689537214172963845953824176846751932761382459398475621524196387}</sudoku_num>
+        <tiempo>11</tiempo>
+    </resuelto>
+</historial>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<usuarios>
+    <usuario>
+        <nombre_completo>q</nombre_completo>
+        <nombre_usuario>qq</nombre_usuario>
+        <password>qqq</password>
+    </usuario>
+    <usuario>
+        <nombre_completo>w</nombre_completo>
+        <nombre_usuario>ww</nombre_usuario>
+        <password>www</password>
+    </usuario>
+    <usuario>
+        <nombre_completo>e</nombre_completo>
+        <nombre_usuario>ee</nombre_usuario>
+        <password>eee</password>
+    </usuario>
+</usuarios>

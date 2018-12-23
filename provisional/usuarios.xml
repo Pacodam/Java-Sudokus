@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<usuarios>
+    <usuario>
+        <nombre_completo>e</nombre_completo>
+        <nombre_usuario>ee</nombre_usuario>
+        <password>ooo</password>
+    </usuario>
+    <usuario>
+        <nombre_completo>r</nombre_completo>
+        <nombre_usuario>rr</nombre_usuario>
+        <password>rrr</password>
+    </usuario>
+    <usuario>
+        <nombre_completo>q</nombre_completo>
+        <nombre_usuario>qq</nombre_usuario>
+        <password>qqq</password>
+    </usuario>
+    <usuario>
+        <nombre_completo>w</nombre_completo>
+        <nombre_usuario>ww</nombre_usuario>
+        <password>www</password>
+    </usuario>
+    <usuario>
+        <nombre_completo>t</nombre_completo>
+        <nombre_usuario>tt</nombre_usuario>
+        <password>ttt</password>
+    </usuario>
+    <usuario>
+        <nombre_completo>w</nombre_completo>
+        <nombre_usuario>q</nombre_usuario>
+        <password>qw</password>
+    </usuario>
+</usuarios>

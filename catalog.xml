@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/alu2017454/Documents/jaxb/java-20181121T173326Z-001/java/jaxb/SudokusJAXB/esquemas/SudokusEsquema.xsd" uri="xml-resources/jaxb/sudokus/SudokusEsquema.xsd"/>
+    <system systemId="file:/C:/Users/usuario/Google%20Drive/DAM/trabajos%20en%20curso/java/jaxb/SudokusJAXB/esquemas/HistorialEsquema.xsd" uri="xml-resources/jaxb/Historials/HistorialEsquema.xsd"/>
+    <system systemId="file:/C:/Users/usuario/Google%20Drive/DAM/trabajos%20en%20curso/java/jaxb/SudokusJAXB/esquemas/UsuariosEsquema.xsd" uri="xml-resources/jaxb/Usuarios/UsuariosEsquema.xsd"/>
+</catalog>
